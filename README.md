@@ -1,8 +1,8 @@
 ## Hi there, I'm Dan 👋
 
 🚀 Java Developer | 🎓 CS Diploma Student  
-📦 Currently working on: Inventory Management System & Supply Chain System  
-💡 Interests: Backend, Databases (MySQL, SQLite), Desktop GUI apps
+📦 Currently working on: Mafori FC Website
+💡 Interests: Software Development
 
 ---
 
